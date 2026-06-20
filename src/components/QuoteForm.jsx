@@ -123,7 +123,7 @@ const QuoteForm = () => {
               </Form.Group>
 
               <Form.Group className="mb-4">
-                <Form.Label>Detalles Adicionales</Form.Label>
+                <Form.Label>Detalles Adicionales y si requiere ayudante(peoneta)</Form.Label>
                 <Form.Control
                   as="textarea"
                   rows={3}
