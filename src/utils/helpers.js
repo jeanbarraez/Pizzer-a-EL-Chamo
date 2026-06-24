@@ -63,7 +63,7 @@ export const getWhatsAppUrl = (orderDetails) => {
     `Tiempo estimado: ${prepTime.min}-${prepTime.max} minutos%0A%0A` +
     `¡Gracias por tu pedido! 😊`;
 
-  return `https://wa.me/56912345678?text=${message}`;
+  return `https://wa.me/56986813898?text=${message}`;
 };
 
 export const getEmailUrl = (orderDetails) => {
@@ -99,9 +99,9 @@ export const getEmailUrl = (orderDetails) => {
     `¡Gracias por tu pedido! 😊`;
 
   const subject = encodeURIComponent(`Nuevo pedido de ${customerName}`);
-  return `mailto:pizzeria@elchamo.cl?subject=${subject}&body=${encodeURIComponent(body)}`;
+  return `mailto:jeanbarraez17@gmail.com?subject=${subject}&body=${encodeURIComponent(body)}`;
 };
 
 export const getFacebookUrl = () => {
-  return "https://www.facebook.com/pizzeriaelchamo";
+  return "https://www.facebook.com/JeanBarraez";
 };
