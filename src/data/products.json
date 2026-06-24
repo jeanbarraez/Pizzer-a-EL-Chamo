@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Margarita",
+    "description": "Pizza clásica con salsa de tomate, mozzarella fresca y albahaca",
+    "price": 8990,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800",
+    "ingredients": ["Salsa de tomate", "Mozzarella fresca", "Albahaca", "Aceite de oliva"],
+    "category": "Clásicas",
+    "preparationTime": 15,
+    "tags": ["Vegetariana", "Clásica"]
+  },
+  {
+    "id": "2",
+    "name": "Pepperoni",
+    "description": "Deliciosa pizza con pepperoni premium y mozzarella",
+    "price": 9990,
+    "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=800",
+    "ingredients": ["Salsa de tomate", "Mozzarella", "Pepperoni", "Orégano"],
+    "category": "Clásicas",
+    "preparationTime": 18,
+    "tags": ["Popular"]
+  },
+  {
+    "id": "3",
+    "name": "Hawaiana",
+    "description": "Pizza con jamón, piña y mozzarella",
+    "price": 9490,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
+    "ingredients": ["Salsa de tomate", "Mozzarella", "Jamón", "Piña"],
+    "category": "Especiales",
+    "preparationTime": 20,
+    "tags": ["Dulce y salado"]
+  },
+  {
+    "id": "4",
+    "name": "Cuatro Quesos",
+    "description": "Mezcla de mozzarella, parmesano, gorgonzola y ricotta",
+    "price": 10990,
+    "image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=800",
+    "ingredients": ["Mozzarella", "Parmesano", "Gorgonzola", "Ricotta"],
+    "category": "Especiales",
+    "preparationTime": 22,
+    "tags": ["Vegetariana", "Quesos"]
+  },
+  {
+    "id": "5",
+    "name": "Vegetariana",
+    "description": "Pizza llena de vegetales frescos y saludables",
+    "price": 9490,
+    "image": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=800",
+    "ingredients": ["Salsa de tomate", "Mozzarella", "Pimientos", "Champiñones", "Cebolla", "Aceitunas"],
+    "category": "Vegetariana",
+    "preparationTime": 20,
+    "tags": ["Vegetariana", "Saludable"]
+  },
+  {
+    "id": "6",
+    "name": "BBQ Chicken",
+    "description": "Pizza con pollo a la barbacoa, cebolla caramelizada y cilantro",
+    "price": 11990,
+    "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?w=800",
+    "ingredients": ["Salsa BBQ", "Mozzarella", "Pollo", "Cebolla caramelizada", "Cilantro"],
+    "category": "Especiales",
+    "preparationTime": 25,
+    "tags": ["BBQ", "Pollo"]
+  }
+]
